@@ -88,7 +88,6 @@ MAX_PEDIDOS=200
 MAX_PEDIDOS_POR_COLUMNA=10
 ```
 
->  **Nunca subir el archivo `.env` al repositorio.** Ya está incluido en `.gitignore`.
 
 ### 4. Ejecutar la aplicación
 
